@@ -6,7 +6,7 @@ import { LogoutComponent } from './logout/logout.component';
 import { RouterModule } from '@angular/router';
 import { ApplicationPaths } from './api-authorization.constants';
 import { HttpClientModule } from '@angular/common/http';
-import { AdminLayoutComponent } from '../app/admin-layout/admin-layout.component';
+import { AdminLayoutComponent } from '../app/layouts/admin-layout/admin-layout.component';
 
 @NgModule({
   imports: [
